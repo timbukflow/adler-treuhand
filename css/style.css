@@ -1,0 +1,285 @@
+/*
+    Theme Name: adler treuhand
+    Description: adler treuhand
+    Version: 1.0
+    Author: Ivo Schwizer
+    Author URI: http://schwizerschlatter.com
+    Tags: No Tags
+*/
+
+/*
+    Color Theme: adler treuhand
+    Main Color Gold: #FFD700;
+*/
+
+html, body {
+    height: 100%;
+    position:relative;
+}
+
+body {
+    margin:0px;
+    background: rgb(65,65,65);
+background: linear-gradient(0deg, rgba(65,65,65,1) 0%, rgba(66,66,66,1) 100%);
+    padding: 0px;
+}
+    
+h1, h2, h3, h4, p, a, li{
+    color: #FFD700;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'PT Serif', serif;  
+    font-size: 17px;
+    line-height: 1.4;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    text-decoration: none;
+    letter-spacing: 0.75px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    text-align: left;
+    border-bottom: solid 1px;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    padding: 20px 0px;
+    border-bottom: solid 1px;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* ==========================================================================
+   accordion and drop
+   ========================================================================== */
+.maincontainer {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+
+
+/* ==========================================================================
+   accordion and drop
+   ========================================================================== */
+
+.accList, 
+.dropList,
+.acclistFooter,
+.accListSecond {
+    display: none;
+}
+
+.dropList {
+    width: 310px;
+}
+
+
+td {
+    vertical-align: top;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.year {
+    padding-right: 20px;
+    color: #19489a;
+}
+
+.debora {
+    width: 20%;
+}
+
+.publyear {
+    font-size: 16px;
+    padding-right: 20px;
+    color: #19489a;
+}
+
+.publ {
+    padding-bottom: 16px;
+    font-size: 16px;
+}
+
+.accordion-advo {
+    margin-top: 30px;
+    padding-right: 32px;
+}
+
+.accordion-advo .line {
+    margin-left: -25px;
+}
+
+.accordion-advo h3 {
+    margin-left: 25px;
+}
+
+.rechtsgebiete {
+    position: absolute;
+    top: 70px;
+    padding-left: 8px;
+    cursor: pointer;
+}
+
+.nomargin {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+
+/*---------------------------------- 
+    footer
+-----------------------------------*/
+
+footer {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    background: #718166;
+    width: 100%;
+    float: left;
+    z-index: 1
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+}
+
+.footerkontakt {
+    float: left;
+    
+}
+
+.footerkontakt p {
+    color: #fff;
+    margin: 40px;
+}
+
+.footerkontakt a,
+#impressum p{
+    color: #fff;
+}
+
+.footernav {
+    float: right;
+    margin: 40px 80px 40px 40px;
+}
+
+.footernav ul {
+    margin: 0;
+    display: inline-block;
+    padding: 0;
+}
+
+footer a{
+    color: #fff;
+    margin: 0;
+}
+
+.impressum {
+    color: #fff;
+    margin: 0;
+    cursor: pointer;
+}
+
+#impressum {
+    display: none;
+    padding: 40px 40px;
+    position: relative;
+    float: left;
+}
+
+.disclamer {
+    font-size: 14px;
+    color: #fff;
+}
+
+.konditionen {
+    font-size: 14px;
+    color: #718166;
+}
+
+#datenschutz,
+#konditionen {
+    display: none;
+    padding: 0px 40px 40px;
+    position: relative;
+    float: left;
+}
+
+#datenschutz p{
+    font-size: 14px;
+    color: #fff;
+}
+
+
+#optoutbanner99 {
+	font-size: 12px;
+	line-height: 18px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: right;
+	z-index: 200;
+}
+
+#optoutbanner99 a,
+#optoutbanner99 p{
+	cursor: pointer;
+    font-size: 15px;
+    display: inline-block;
+    margin: 0px 3px;
+}
+
+#acceptga {
+	text-decoration: none !important;
+	background-color: #718166;
+	color: #fff !important;
+	font-weight: normal !important;
+    padding: 0px 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+
+/*---------------------------------- 
+responsive ipad
+-----------------------------------*/
+
+
+
+@media only screen and (max-width: 1400px) {
+    
+}
+
+@media only screen and (max-width: 1270px) {
+ 
+}
+    
+@media only screen and (max-width: 1130px) {
+    
+}
+
+@media only screen and (max-width: 770px) {
+    
+}
+
+@media only screen and (max-width: 768px) {
+
+}
