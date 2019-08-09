@@ -93,8 +93,6 @@ p  {
     100% { transform: translateY(-20px)rotate(90deg); }
 }
 
-
-
 ul {
     padding: 0px;
     margin: 0px;
@@ -134,7 +132,6 @@ li {
     -moz-transition:    2s ease;
     -o-transition:      2s ease;
     transition:         2s ease;
-
 }
 
 .homecontainer {
@@ -155,9 +152,6 @@ li {
 .accList{
     display: none;
 }
-/*---------------------------------- 
-    footer
------------------------------------*/
 
 footer {
     position: relative;
@@ -174,8 +168,6 @@ footer {
 #impressum, #datenschutz {
     display: none;
 }
-
-
 
 #optoutbanner99 {
 	position: fixed;
@@ -204,7 +196,6 @@ footer {
     padding: 8px 12px;
 
 }
-
 
 /*---------------------------------- 
 responsive ipad
