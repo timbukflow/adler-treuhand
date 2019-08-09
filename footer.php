@@ -1,50 +1,24 @@
 <footer>
+    
     <div class="footer">
-        <div class="footerkontakt">   
-            <p>
-                <strong>Bauherrschaft</strong>:<br>
-                Bauherrengemeinschaft<br> 
-                Baumgarten <br>
-                Freudenau Goldach<br>
-                c/o Schwager Mätzler Schneider<br>
-                Rechtsanwälte
-            </p>
-        </div>
-        <div class="footerkontakt">   
-            <p>
-                <strong>Ansprechperson</strong><br>
-                Sproll &amp; Ramseyer AG<br>
-                Frau Angela Signer<br>
-                <a href="tel:0712290029">T 071 229 00 29</a><br>
-                <a href="mailto:angela.signer@sur.ag" target="_top">angela.signer@sur.ag</a><br>
-                <a class="linkw" href="downloads/baumgarten-anmeldeformular-mietinteressenten.pdf" download="Anmeldeformular">Anmeldeformular</a>
-            </p>
-        </div>
-        <nav class="footernav">   
-            <ul>
-                <li><a class="linkw" href="index">Baumgarten</a></li>
-                <li><a class="linkw" href="goldach">Goldach</a></li>
-                <li><a class="linkw" href="wohnangebot">Wohnangebot</a></li>
-                <li><a class="linkw" href="kontakt">Kontakt</a></li>
-                <li><a class="linkw" href="kontakt">Downloads</a></li>
-                <li><span class="linkw impressum" data-toggle="#impressum">Impressum</span></li>
-            </ul>
-        </nav>
+        <p class="disclamer">© 2019 Adler Treuhand. All rights reserved | <span class="disclamer" data-toggle="#datenschutz">Disclamer</span></p>
     </div>
-        <div id="impressum">    
-            <p><b>Design &#38; Interaction:</b><br>Schwizer &#38; Schlatter GmbH<br>Davidstrasse 45<br>9000 St.Gallen<br>
-                <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
-            </p>
-            <p class="disclamer">© 2019 Bauherrengemeinschaft Baumgarten. All rights reserved | <span class="linkw disclamer impressum" data-toggle="#datenschutz">Disclamer</span></p>
-        </div>
         <div id="datenschutz">
             <p>
-            Die Website www.baumgarten-goldach.ch dient der Informationsvermittlung über das Überbauungsprojekt Baumgarten in Goldach.
-                
-            Der Sicherheit und Störungsfreiheit sowie der Aktualität bei der Benutzung der Website wurde grosse Aufmerksamkeit geschenkt. Sie wird regelmässig technisch auf den neuesten Stand gebracht und inhaltlich aktualisiert. Trotz bestmöglicher Vorkehrungen können Sicherheit und Störungsfreiheit sowie Aktualität und Vertraulichkeit von Daten und/oder Inhalten aufgrund des öffentlichen Charakters des Internets nicht abschliessend garantiert werden. Sie benutzen das Internet bzw. die von uns publizierten Webseiten grundsätzlich auf eigenes Risiko. Dies gilt auch für E-Mails [elektronische Post] sowie Links, die Sie zu uns führen, bzw. für Links, die wir Ihnen anbieten, sowie für den Inhalt der via Links aufgerufenen Websites von Dritten. Die Bauherrengemeinschaft Baumgarten übernimmt keinerlei Haftung für direkte oder indirekte Schäden, die den Nutzern der Webseiten oder Dritten durch irgendwelche Kontakte oder Transaktionen über das Internet entstehen; sie haften insbesondere nicht für Richtigkeit, Aktualität und Vollständigkeit der angezeigten bzw. telefonisch und elektronisch übermittelten Daten bzw. Inhalte. Eine Haftung wird namentlich [aber nicht abschliessend] ausgeschlossen für Übermittlungsfehler, technische Mängel, Störungen oder Unterbrechungen des Telefonnetzes/Internetzuganges, rechtswidrige Eingriffe in Einrichtungen der Netze, Einschmuggeln von Viren, Kopieren und Verfälschen von Daten und Inhalten, Überlastung der Netze, Nichterkennen von Fälschungen, allfällige Legitimationsmängel sowie mutwillige oder zufällige Blockierung elektronischer Zugänge durch Dritte.
-                
-            Alle Rechte vorbehalten. Jede Art der Vervielfältigung, Verbreitung, Auswertung oder Veränderung – auch auszugsweise – ist ohne vorgängige schriftliche Genehmigung durch die Bauherrengemeinschaft Baumgarten untersagt.
+                Privacy Policy<br>
+                as the protection of your personal data is of particular concern to us, we only process your data based on legal provisions (EU GDPR 2018, DSG 1992 ). In this Privacy Statement, we inform you about the most important aspects of data processing in connection with our website. By transferring your personal data to us and by using our website you confirm that you have read and understood this Privacy Statement.
+                <br><br>
+                Contacting us<br>
+                If you contact us by e-mail or telephone, we will process the data provided by you for the purpose of handling your inquiry and for potential follow-up questions; we will delete said data no later than three months after your inquiry has been dealt with. Moreover, your data will only be further processed if it is necessary due to statutory retention requirements or if it is necessary for maintaining and/or asserting any legal rights. Data is only disclosed to the extent that is required for the purposes mentioned above; as far as possible, data is only disclosed within our company.
+                <br><br>
+                Your rights<br>
+                The General Data Protection Regulation provides you with rights of access, rectification, erasure, restriction, data portability, withdrawal and objection. If you believe that the processing of your data violates data protection law or if your rights under data protection law have been violated in any other way you can lodge a complaint with the supervisory authority. However, you may also contact us at any time using the contact details which can be found in our website section («Contact»).
+                <br><br>
+                Data protection officer<br>
+                You may contact our data protection officer by e-mail:<br>
+                b.adler@adler-treuhand.com<br>
+                <br><br>
+                Date: 1 August 2018<br>
             </p>    
-        </div>
-        
+        </div>   
 </footer>

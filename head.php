@@ -47,6 +47,6 @@
 
 <meta name="google-site-verification" content="..." />
 <link rel="stylesheet" href="css/reset.css" />
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Libre+Caslon+Text&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css" />
 
