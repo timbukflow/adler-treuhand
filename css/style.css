@@ -228,11 +228,11 @@ responsive ipad
     .logo {width: 180px;}
     h1 { font-size: 35px; letter-spacing: 5px; padding-top: 30px;}
     h3 { font-size: 16px; line-height: 1.6;}
-    h2 { font-size: 22px; margin-top: 20px;}
+    h2 { font-size: 22px; padding-top: 0px;}
     li { font-size: 16px;}
     ul { margin-bottom: 60px;}
-    .homecontainer, footer { padding: 10px 30px;}
-    .maincontainer { padding: 0 30px;}
+    .homecontainer, footer { padding: 10px 15px;}
+    .maincontainer { padding: 0 15px;}
     #optoutbanner99 p {font-size: 10px; padding: 10px;}
     #optoutbanner99 a {width: 100%;}
 }
