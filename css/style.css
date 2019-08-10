@@ -54,11 +54,13 @@ h1 {
 
 h2 {
     font-size: 32px;
-    margin: 40px 0;
+    margin: 0;
+    margin-bottom: 30px;
     cursor: pointer;
     text-align: left;
     border-bottom: solid 1px;
     padding: 10px;
+    padding-top: 30px;
 }
 
 h3 {  
@@ -93,18 +95,39 @@ p  {
     100% { transform: translateY(-20px)rotate(90deg); }
 }
 
-ul, li {
-    
+
+
+ul, li, a {
     list-style-type: disc;
     margin: 0;
-    padding-left: 32px;
+    padding-left: 30px;
     text-align: left;
     font-size: 20px;
 }
 
+ul {
+    margin-bottom: 30px;
+}
+
 li {
-    padding-left: 10px;
+    padding-left: 0;
     padding-bottom: 14px;
+}
+
+.second {
+    margin: 0 0 20px 0;
+}
+
+.second > li {
+    list-style-type: circle;
+    padding: 5px 0px;
+}
+.kontakt, a {
+    padding-left: 0;
+}
+.kontakt > li {
+    list-style-type: none;
+    padding-left: 11px;
 }
 
 /* container */

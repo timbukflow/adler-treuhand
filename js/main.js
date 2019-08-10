@@ -14,7 +14,7 @@ $(document).ready(function () {
         
         setTimeout(function(){
             $('html, body').animate({scrollTop: $($accordion_content).offset().top - 240}, 600);
-        }, 700);
+        }, 800);
     });
     
     // disclamer //

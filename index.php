@@ -40,11 +40,19 @@
             <h2 class="nav accTitle">Controlling &amp; Reporting</h2>
             <div class="accList">
                 <ul>
-                    <li>Liquiditätsmanagement:<br>&#8722; Abstimmung der Bankkonten<br>&#8722; OP Kreditoren<br>&#8722; OP Debitoren</li>
+                    <li>Liquiditätsmanagement</li>
+                        <ul class="second">
+                            <li>Abstimmung der Bankkonten</li>
+                            <li>OP Kreditoren</li>
+                            <li>OP Debitoren</li>
+                        </ul>
                     <li>Finanzplanung </li>
                     <li>Budgetkontrolle</li>
                     <li>Mahnwesen und Inkasso</li>
-                    <li>Mithilfe beim Jahresbericht:<br>&#8722; Kennzahlenanalyse</li>
+                    <li>Mithilfe beim Jahresbericht</li>
+                        <ul class="second">
+                            <li>Kennzahlenanalyse</li>
+                        </ul>
                     <li>Individualisiertes Reporting</li>
                 </ul>
             </div>
@@ -63,28 +71,30 @@
             <h2 class="nav accTitle">Personalwesen</h2>
             <div class="accList">
                 <ul>
-                    <li>Salär-administration:
-                        <br>&#8722; Führen der Lohnbuchhaltung
-                        <br>&#8722; Erstellen von Sozialversicherungs- und Quellensteuerabrechnungen
-                        <br>&#8722; Versicherungslösungen periodisch überprüfen
-                        <br>&#8722; Beratung
-                    </li>
-                    <li>Personal-administration:
-                        <br>&#8722; Ausarbeiten von Arbeitsverträgen
-                        <br>&#8722; Aufsetzen von Kündigungen, Freistellungs- und Aufhebungsvereinbarungen
-                        <br>&#8722; Korrespondenz mit den Sozialversicherungsämtern
-                        <br>&#8722; Erstellen von Arbeitszeugnissen
-                    </li>
+                    <li>Salär-administration </li>
+                        <ul class="second">
+                            <li>Führen der Lohnbuchhaltung</li>
+                            <li>Erstellen von Sozialversicherungs- und Quellensteuerabrechnungen</li>
+                            <li>Versicherungslösungen periodisch überprüfen</li>
+                            <li>Beratung</li>
+                        </ul>
+                    <li>Personal-administration</li>
+                        <ul class="second">
+                            <li>Ausarbeiten von Arbeitsverträgen</li>
+                            <li>Aufsetzen von Kündigungen, Freistellungs- und Aufhebungsvereinbarungen</li>
+                            <li>Korrespondenz mit den Sozialversicherungsämtern</li>
+                            <li>Erstellen von Arbeitszeugnissen</li>
+                        </ul>
                 </ul>
             </div>
             
             <h2 class="nav accTitle">Kontakt</h2>
             <div class="accList">
-                <ul>
-                    <li>Benjamin Adler</li>
+                <ul class="kontakt">
+                    <li >Benjamin Adler</li>
                     <li>Dipl. Bankwirtschafter</li>
-                    <li>076 383 6547</li>
-                    <li>b.adler@adler-treuhand.com</li>
+                    <li><a href="tel:0763836547">076 383 6547</a></li>
+                    <li><a href="mailto:b.adler@adler-treuhand.com?subject=Anfrage">b.adler@adler-treuhand.com</a></li>
                 </ul>
             </div>    
         </article>  
