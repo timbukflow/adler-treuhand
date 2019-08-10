@@ -15,7 +15,7 @@
     </section>
     
     <section class="homecontainer">
-            <h1>ADLER TREUHAND</h1>
+            <h1>ADLER<br>TREUHAND</h1>
             <h3>Schweizer Qualität, Finanzdienstleistungen, Zürich Schweiz</h3>
             <div class="arrow">&#x27B3;</div>
     </section>
