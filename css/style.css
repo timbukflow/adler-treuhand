@@ -68,10 +68,21 @@ h3 {
     line-height: 1.4;
 }
 
+h3.about {
+    text-align: left;
+    margin-top: 0;
+    padding: 0 10px
+}
+
 p  {
     font-size: 13px;
     text-align: left;
     cursor: pointer;
+}
+
+p.about {
+    font-size: 16px;
+    padding: 0 10px
 }
 
 .arrow {
@@ -105,7 +116,7 @@ ul, li, a {
     font-size: 20px;
 }
 
-ul {
+ul, .aboutct {
     margin-bottom: 30px;
 }
 
@@ -188,6 +199,10 @@ footer {
     width: 100%;
 }
 
+.disclamer {
+    text-align: center;
+}
+
 #impressum, #datenschutz {
     display: none;
 }
@@ -229,8 +244,9 @@ responsive ipad
     h1 { font-size: 35px; letter-spacing: 5px; padding-top: 30px;}
     h3 { font-size: 16px; line-height: 1.6;}
     h2 { font-size: 22px; padding-top: 0px;}
+    h3.about { font-size: 20px;}
     li, a { font-size: 16px;}
-    ul { margin-bottom: 60px;}
+    ul, .aboutct { margin-bottom: 60px;}
     .homecontainer, footer { padding: 10px 15px;}
     .maincontainer { padding: 0 15px;}
     #optoutbanner99 p {font-size: 10px; padding: 10px;}

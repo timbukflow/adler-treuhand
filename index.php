@@ -16,7 +16,7 @@
     
     <section class="homecontainer">
             <h1>ADLER<br>TREUHAND</h1>
-            <h3>Schweizer Qualität, Finanzdienstleistungen, Zürich Schweiz</h3>
+            <h3>think big - strive higher</h3>
             <div class="arrow">&#x27B3;</div>
     </section>
     
@@ -88,17 +88,30 @@
                 </ul>
             </div>
             
+            <h2 class="nav accTitle">Über uns</h2>
+            <div class="accList">
+                <div class="aboutct">
+                    <h3 class="about">Die Adler Treuhand richtet Ihr Angebot an KMU’s denen eine einfache Buchhaltung nicht mehr genügt. </h3>
+                    <p class="about">Sie haben es geschafft, Ihr Unternehmen wächst und Sie stehen vor neuen Herausforderungen. Sie stellen Ihren ersten Mitarbeiter ein, oder Sie haben die Grenze von 100'000 Franken Umsatz im Jahr erreicht und werden MWST pflichtig. Alles Zeichen von Erfolg bei dem wir Ihnen helfen können das nächste Kapitel zu schreiben.</p><br>
+                    <h3 class="about">Die Adler Treuhand fügt sich ihren spezifischen Bedürfnissen an.</h3>
+                    <p class="about">Wir richten Ihnen Ihre Buchhaltung ein und verknüpfen die notwendigen Programme, sodass Sie von Ihrer Datenquelle bestmöglich profitieren können. Ihr «Know How» ist der Schlüssel um vorausschauend zu planen und wir begleiten Sie professionell auf Ihrem Weg. Ob Sie die Profitabilität Ihrer Produkte oder die Struktur Ihrer Kundenbasis auswerten Möchten – wir helfen Ihnen dabei!</p><br>
+                    <h3 class="about">Die Adler Treuhand arbeitet auf Wunsch mit Ihrer Buchhaltungssoftware.</h3>
+                    <p class="about">Wir haben uns auf die Digitalisierung spezialisiert und helfen Ihrem Unternehmen gerne von den heutigen technischen Hilfsmittel Gebrauch zu machen. Was gestern noch modern war wird heute schon als umständlich betrachtet. Kunden und Lieferanten wünschen laufen Vereinfachungen sei dies im Zahlungsverkehr, in der Art der Rechnungsansicht, im Bestellprozess und und und…- wir beraten Sie gerne!</p>
+                </div>
+            </div>
+            
             <h2 class="nav accTitle">Kontakt</h2>
             <div class="accList">
                 <ul class="kontakt">
                     <li >Benjamin Adler</li>
                     <li>Dipl. Bankwirtschafter</li>
-                    <li><a href="tel:0763836547">076 383 6547</a></li>
-                    <li><a href="mailto:b.adler@adler-treuhand.com?subject=Anfrage">b.adler@adler-treuhand.com</a></li>
+                    <li><a href="tel:0763836547">&#x261E; 0041 76 383 6547</a></li>
+                    <li><a href="mailto:b.adler@adler-treuhand.com?subject=Anfrage">&#x261E; b.adler@adler-treuhand.com</a></li>
                 </ul>
             </div>    
         </article>  
     </section>
+    <h3>&#171;Schweizer Qualität, Finanzdienstleistungen, Zürich Schweiz&#187;</h3>
     
     <?php include 'footer.php'; ?>
     <?php include 'script.php'; ?>
