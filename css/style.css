@@ -244,8 +244,8 @@ responsive ipad
     h1 { font-size: 35px; letter-spacing: 5px; padding-top: 30px;}
     h3 { font-size: 16px; line-height: 1.6;}
     h2 { font-size: 22px; padding-top: 0px;}
-    h3.about { font-size: 16px;}
-    li, a { font-size: 14px;}
+    h3.about { font-size: 18px;}
+    li, a { font-size: 16px;}
     ul, .aboutct { margin-bottom: 60px;}
     .homecontainer, footer { padding: 10px 15px;}
     .maincontainer { padding: 0 15px;}
