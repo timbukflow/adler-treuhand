@@ -250,5 +250,5 @@ responsive ipad
     .homecontainer, footer { padding: 10px 15px;}
     .maincontainer { padding: 0 15px;}
     #optoutbanner99 p {font-size: 10px; padding: 10px;}
-    #optoutbanner99 a {width: 100%;}
+    #optoutbanner99 a {width: 100%; text-align: right;}
 }
