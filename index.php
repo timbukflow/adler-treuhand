@@ -107,6 +107,8 @@
                     <li>Dipl. Bankwirtschafter</li>
                     <li><a href="tel:0763836547">&#x261E; 0041 76 383 6547</a></li>
                     <li><a href="mailto:b.adler@adler-treuhand.com?subject=Anfrage">&#x261E; b.adler@adler-treuhand.com</a></li>
+                    <li><a href="https://www.linkedin.com/in/benjamin-adler-487b7a8a">&#x261E; Linkedin</a></li>
+                    
                 </ul>
             </div>    
         </article>  
