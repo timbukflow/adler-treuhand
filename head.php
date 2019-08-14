@@ -33,8 +33,6 @@
 <meta property="business:contact_data:region" content="8000">
 <meta property="business:contact_data:postal_code" content="8000">
 <meta property="business:contact_data:country_name" content="Switzerland">
-
-<meta name="google-site-verification" content="..." />
 <link rel="stylesheet" href="css/reset.css" />
 <link href="https://fonts.googleapis.com/css?family=Libre+Caslon+Text&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css" />
