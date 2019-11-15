@@ -4,7 +4,7 @@
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 <title>Adler Treuhand</title>
-<meta name="description" content=""/>
+<meta name="description" content="Adler | Treuhand"/>
 <?php include 'head.php'; ?>
 </head>
     
@@ -105,7 +105,7 @@
                 <ul class="kontakt">
                     <li >Benjamin Adler</li>
                     <li>Dipl. Bankwirtschafter</li>
-                    <li><a href="tel:0763836547">&#x261E; 0041 76 383 6547</a></li>
+                    <li><a href="tel:+41445863288">&#x261E; +41 44 586 32 88</a></li>
                     <li><a href="mailto:b.adler@adler-treuhand.com?subject=Anfrage">&#x261E; b.adler@adler-treuhand.com</a></li>
                     <li><a href="https://www.linkedin.com/in/benjamin-adler-487b7a8a">&#x261E; Linkedin</a></li>
                     
