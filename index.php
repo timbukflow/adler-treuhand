@@ -4,7 +4,7 @@
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 <title>Adler Treuhand</title>
-<meta name="description" content="Adler | Treuhand"/>
+<meta name="description" content=""/>
 <?php include 'head.php'; ?>
 </head>
     
