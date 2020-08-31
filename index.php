@@ -113,7 +113,7 @@
             </div>    
         </article>  
     </section>
-    <h3>&#171;Schweizer Qualität<br>Finanzdienstleistungen<br>Zürich Schweiz&#187;</h3>
+    <h3>&#171;Finanzdienstleistungen höchster Qualität<br>Zürich Schweiz&#187;</h3>
     
     <?php include 'footer.php'; ?>
     <?php include 'script.php'; ?>
