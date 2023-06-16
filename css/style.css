@@ -27,7 +27,7 @@ body {
     padding: 0px;
 }
     
-h1, h2, h3, h4, p, a, li, .arrow{
+h1, h2, h3, h4, p, a, li, .arrow, button{
     color: #ffffcd;
     font-weight: 400;
     font-style: normal;
@@ -207,7 +207,7 @@ footer {
     display: none;
 }
 
-#optoutbanner99 {
+#cookiebanner {
 	position: fixed;
     top: 0;
     left: 0;
@@ -218,21 +218,32 @@ footer {
     z-index: 200;
 }
 
-#optoutbanner99 a,
-#optoutbanner99 p{
+#cookiebanner button,
+#cookiebanner p{
     color: #2f2f2f;
-    cursor: pointer;
-    font-size: 12px;
+    font-size: 14px;
     display: inline-block;
     margin: 0;
+    padding: 10px 15px;
 }
 
-#acceptga {
+#declineBtn, #acceptBtn {
     text-decoration: none !important;
+    cursor: pointer;
     background-color: #c89863;
     color: #fff !important;
-    padding: 8px 12px;
+    border: none;
+    transition: background-color 0.5s ease-in-out;
+}
 
+#declineBtn {
+    float: right;
+    opacity: 0.5;
+}
+
+#acceptBtn:hover,
+#declineBtn:hover {
+    background-color: #95714a;
 }
 
 /*---------------------------------- 
@@ -250,6 +261,6 @@ responsive ipad
     ul, .aboutct { margin-bottom: 60px;}
     .homecontainer, footer { padding: 10px 15px;}
     .maincontainer { padding: 0 15px;}
-    #optoutbanner99 p {font-size: 10px; padding: 10px;}
-    #optoutbanner99 a {width: 100%; text-align: right;}
+    #cookiebanner p {font-size: 14px; display: block;}
+    #cookiebanner button {width: 50%; display: inline-block;}
 }
