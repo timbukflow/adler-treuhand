@@ -1,7 +1,7 @@
 <footer>
     
     <div class="footer">
-        <p class="disclamer">© 2019 Adler Treuhand.<br>All rights reserved | <span class="disclamer" data-toggle="#datenschutz">Disclamer</span></p>
+        <p class="disclamer">© 2023 Adler Treuhand.<br>All rights reserved | <span class="disclamer" data-toggle="#datenschutz">Disclamer</span></p>
     </div>
         <div id="datenschutz">
             <p>
